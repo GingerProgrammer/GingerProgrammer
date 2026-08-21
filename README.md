@@ -1,5 +1,7 @@
 # Olá, eu sou a Mariana! 👋
 
+## Sobre mim...
+
 ### Desenvolvedora em formação | Desenvolvimento Web • Backend
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou construindo minha experiência através de projetos, estudos e muita prática.
