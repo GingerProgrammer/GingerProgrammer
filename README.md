@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou a Mariana! 👋
+# Olá, eu sou a Mariana! 🩷
 
 ### Desenvolvedora em formação | Desenvolvimento Web • Backend
 
