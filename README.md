@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Ol%C3%A1%2C+seja+bem-vindo+divas%2C+devs+e+divos!+%E2%9C%A6;%E2%9C%A7+Eu+sou+a+Mariana+Fernandes+%F0%9F%A9%B7+%E2%9C%A7)](https://github.com/GingerProgrammer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=850&lines=%E2%9C%A6+Ol%C3%A1%2C+seja+bem-vindo+divos%2C+devs+e+divas!+%E2%9C%A6;%E2%9C%A7+Eu+sou+a+Mariana+Fernandes+%F0%9F%A9%B7+%E2%9C%A7)](https://github.com/GingerProgrammer)
 
 ### Desenvolvedora em formação | Desenvolvimento Web • Backend
 
