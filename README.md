@@ -32,6 +32,7 @@ Gosto de transformar ideias em sistemas funcionais e, principalmente, de aprende
 ### Quero aprender
 ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-FF69B4?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
 
